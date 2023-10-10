@@ -24,7 +24,7 @@ function App() {
       <p style={{ width: "90%", margin: "0 auto", color: "#d21a90" }}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam fuga
         pariatur provident fugit voluptatibus voluptates qui, ipsa neque
-        molestias doloribus.
+        molestias
       </p>
     </>
   );

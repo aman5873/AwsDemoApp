@@ -21,6 +21,7 @@ function App() {
         Laboriosam alias harum eaque placeat ut consequatur unde labore
         blanditiis nobis!
       </p>
+      <p  <p style={{ width: "90%", margin: "0 auto", color: "#d21a90" }}>></p>
     </>
   );
 }

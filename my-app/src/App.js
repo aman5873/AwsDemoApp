@@ -26,6 +26,9 @@ function App() {
         pariatur provident fugit voluptatibus voluptates qui, ipsa neque
         molestias
       </p>
+      <h4 style={{ width: "90%", margin: "0 auto", color: "#319186" }}>
+        This is another line after some changes
+      </h4>
     </>
   );
 }
